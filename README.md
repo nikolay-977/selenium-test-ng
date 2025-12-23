@@ -1,4 +1,21 @@
-# Как запустить автотесты
+## Описание проекта:
+
+Автоматизированные тесты для Web-сайта VK Video
+
+## Технологии:
+
+- Java 11+
+- Selenium WebDriver
+- TestNG
+- Gradle
+
+## Требования:
+
+1. Java 11+
+2. Gradle
+3. Браузер Google Chrome
+
+## Как запустить автотесты
 
 ## Клонируйте репозиторий:
 
@@ -12,3 +29,7 @@ cd selenium-test-ng
 ```bash
 gradle clean test
 ```
+
+### Скриншот успешного запуска автотестов:
+
+![VkVideoTests.png](VkVideoTests.png)
